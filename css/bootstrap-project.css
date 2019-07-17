@@ -1,0 +1,399 @@
+body {
+
+
+
+    background-color: #eeeeee;
+
+}
+
+
+
+/* links hover */
+
+a:hover {
+
+
+
+    color: #2a9dd6;
+
+}
+
+
+
+/* container div */
+
+.container {
+
+
+
+    font-family: serif;
+
+}
+
+
+
+/* Nav bar logo */
+
+.nav-logo {
+
+
+
+    width: 35%;
+
+    float: right;
+
+    margin-right: -0.7em;
+
+}
+
+
+
+/* carousel outer container */
+
+.no-padding {
+
+
+
+    padding: 0%;
+
+    margin-bottom: -7em;
+
+}
+
+
+
+/* carousel outer container */
+
+.no-padding img {
+
+
+
+    background-color: #ffffff;
+
+    opacity: 0.5;
+
+}
+
+
+
+/* card deck */
+
+.cd1 {
+
+
+
+    color: #000000;
+
+}
+
+
+
+/* card deck text */
+
+.card-h5 {
+
+
+
+    font-size: 32pt;
+
+}
+
+
+
+/* card deck text */
+
+.card-p {
+
+
+
+    font-size: 14pt;
+
+}
+
+
+
+/* row with white space between several sections */
+
+.white-space {
+
+
+
+    height: 5em;
+
+    background-color: #ffffff;
+
+}
+
+
+
+/* orange headers */
+
+.header-orange {
+
+
+
+    color: #f6891c;
+
+}
+
+
+
+/* blue headers */
+
+.header-blue {
+
+
+
+    color: #69cbda;
+
+}
+
+
+
+/* row with learn how to make an app and attend pbcs */
+
+.learn-attend-row {
+
+
+
+    color: #000000;
+
+}
+
+
+
+/* phone icon */
+
+.phone-icon {
+
+
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    display: block;
+
+}
+
+
+
+/* cap icon */
+
+.cap-icon {
+
+
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    display: block;
+
+}
+
+
+
+/* row with blue background and orange header */
+
+.blue-background-row {
+
+
+
+    background-color: rgba(94, 196, 213, 0.20);
+
+    padding: 1em 1em 1em 1em;
+
+}
+
+
+
+/* row with blue background and orange header */
+
+.blue-background-row img {
+
+
+
+    float: left;
+
+    padding-right: 1em;
+
+}
+
+
+
+/* row with blue background and orange header */
+
+.blue-background-row p {
+
+
+
+    clear: both;
+
+}
+
+
+
+/* row with orange background and blue header */
+
+.orange-background-row {
+
+
+
+    background-color: rgba(246, 137, 28, 0.20);
+
+    padding: 1em 1em 1em 1em;
+
+}
+
+
+
+/* row with orange background and blue header */
+
+.orange-background-row img {
+
+
+
+    float: left;
+
+    padding-right: 1em;
+
+}
+
+
+
+/* row with orange background and blue header */
+
+.orange-background-row p {
+
+
+
+    clear: both;
+
+}
+
+
+
+/* row with instructors icon and text */
+
+.instructors-row {
+
+
+
+    background-color: #ffffff;
+
+    padding: 1em 0.5em 1em 0.5em;
+
+}
+
+
+
+/* row with instructors icon and text */
+
+.instructors-row .card-title {
+
+
+
+    font-weight: bold;
+
+    font-size: 26pt;
+
+}
+
+
+
+/* row with instructors icon and text */
+
+.cap-icon2 {
+
+
+
+    float: left;
+
+    padding-right: 1em;
+
+}
+
+
+
+/* row with instructors icon and text */
+
+.instructors-row p {
+
+
+
+    clear: both;
+
+}
+
+
+
+/* row with contact form */
+
+.orange-background-row form {
+
+
+
+    clear: both;
+
+}
+
+
+
+/* row with contact form label */
+
+.orange-background-row form label {
+
+
+
+    margin-right: -1.5em;
+
+}
+
+
+
+/* News section with hackathon header */
+
+.hackathon-text {
+
+
+
+    float: right;
+
+}
+
+
+
+/* blog section with recent hire header */
+
+.recent-grad-text {
+
+
+
+    float: right;
+
+}
+
+
+
+/* footer */
+
+.footer {
+
+
+
+    background-color: rgba(94, 196, 213, 0.20);
+
+}
+
+
+
+/* footer */
+
+.footer p {
+
+
+
+    font-size: 10pt;
+
+}
